@@ -60,9 +60,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     keyboard_report->mods == (MOD_BIT(KC_LSHIFT) | MOD_BIT(KC_RSHIFT)) \
 )
 
-/* enable tap dance */
-#define TAPPING_TERM 200
-
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
